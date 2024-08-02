@@ -1,0 +1,6 @@
+import "./index.css";
+import "./assets/fonts/Rubik_Scribble/RubikScribble-Regular.ttf";
+
+<h1 style={{ color: "#1139b9", fontFamily: "RubikScribble" }}>
+  עם ישראל חי
+</h1>
